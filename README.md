@@ -7,4 +7,4 @@ ipfs:https://ipfs.io/ipfs/QmP8pB3YwmCScgSerWaKwTLTwPnz1TzEsF8QJr4Pq27hRi?filenam
 
 video on YouTube:https://www.youtube.com/watch?v=Dll1ieSn2zo
 
-![page](https://storage.googleapis.com/ethglobal-api-production/projects/qn713/images/page.png)
+![image-page](https://storage.googleapis.com/ethglobal-api-production/projects/qn713/images/page.png)
